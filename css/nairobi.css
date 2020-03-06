@@ -1,0 +1,82 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    color: black;
+    width:100%;
+}
+header{
+    background:url("9cb1d3_dbfd0bb0dfa04f5a844c8aaf4155c683_mv2.jpg") no-repeat;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    padding: 210px;
+}
+h1{
+    color: black;
+}
+h2{
+    text-align: center;
+}
+h2 p{
+    text-align: center;
+}
+nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+     text-align: center;
+     height: 80px;
+     width: 100%;
+    padding: 0px;
+    margin: 0 5px;
+    line-height: 80px;
+    margin-inline-end: 20px;
+  }
+  nav li{
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+    border-right: 1px solid #cccccc;
+    text-align: center;
+    line-height: 40px;
+  }
+  nav li:hover{
+    background-color: rosybrown;
+    border-radius: 3px;
+  }
+  nav li a{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    text-decoration: none;
+    color: black;
+    }
+img{
+    float: center;
+    width: 200px;
+    border-radius: 0px;
+    width: 15%;
+    }
+    div, p #video{
+        text-align: center;
+    }
+    div, #iframe{
+    font-family: Arial, Helvetica, sans-serif;
+    vertical-align:top;
+    text-align: center;
+}
+body{
+    background-color: ghostwhite;
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    }
+    
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:gainsboro;
+    color: black;
+  }

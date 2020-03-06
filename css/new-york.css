@@ -1,0 +1,75 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    
+}
+header{
+    background:url("new-york-sunbeam-aerial-cityscape-facebook-cover.jpg") ;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    padding: 200px;
+}
+nav ul{
+    padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+     text-align: center;
+     height: 80px;
+     width: 100%;
+    padding: 0px;
+    margin: 0 5px;
+    line-height: 80px;
+    margin-inline-end: 20px;
+  }
+  nav li{
+    display: inline-block;
+    width: 100px;
+    height: 40px;
+    margin: 0px;
+    padding: 0px;
+    border-right: 1px solid #cccccc;
+    text-align: center;
+    line-height: 40px;
+  }
+  nav li:hover{
+    background-color: rosybrown;
+    border-radius: 3px;
+  }
+  nav li a{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    display: block;
+    text-decoration: none;
+    color: black;
+    }
+img{
+    float: center;
+    width: 200px;
+    } 
+    div, #iframe{
+        float: center;
+        vertical-align:top;
+        text-align: center;
+    }
+body{
+    background-color: ghostwhite;
+    color: black;
+    }
+    h2{
+        font-family: Arial, Helvetica, sans-serif;
+        text-align: center;
+    }
+    h1{
+        
+        color:black;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        text-align: left;
+        
+      }
+      
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:gainsboro;
+    color:black;
+  }
