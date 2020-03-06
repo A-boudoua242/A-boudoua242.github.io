@@ -1,0 +1,294 @@
+header{
+  background:url("adobestock57042247jpg5970bd4f8e9b1jpg_5975ab1126c5e.jpg");
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background-size: cover;
+  padding: 270px;
+  }
+  nav, #label{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    line-height: 80px;
+    font-weight: 600;
+  }
+nav ul{
+  box-sizing: border-box;
+  background:#0082e6;
+   height: 80px;
+   width: 100%;
+  padding: 0px;
+  margin: 0 5px;
+  line-height: 80px;
+  margin-inline-end: 20px;
+  list-style: none;
+   text-align: center;
+}
+nav li{
+  box-sizing: border-box;
+  display: inline-block;
+  width: 100px;
+  height: 30px;
+  margin: 0px;
+  padding: 0px;
+  border-right: 1px solid black;
+  text-align: center;
+  line-height: 40px;
+}
+nav li:hover{
+  background-color: black;
+  border-radius: 3px;
+}
+nav li a{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  display: block;
+  text-decoration: none;
+  color:white;
+  }
+  h1{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  }
+  div#brazzaville{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  div#kigali{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  div#nairobi{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  div#londres{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  div#tokyo{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  div#new-york{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  div#dubai{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 30%;
+    line-height: 30px;
+  }
+  #brazzaville{
+    display: inline-block;
+    vertical-align: auto;
+    float: left;
+    border-radius: 4px;
+  }
+  #nairobi{
+    display: inline-block;
+    vertical-align: auto;
+    float: center;
+    padding: 20px;
+  }
+  #kigali{
+    float: right;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  #londres{
+    float: left;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  #new-york{
+    float: center;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  #tokyo{
+    float: center;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  #dubai{
+    float: center;
+    vertical-align: auto;
+    display: inline-block;
+    padding: 20px;
+  }
+  div#brazzaville img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+  }
+  div#nairobi img{
+    float: center;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    width: 70%;
+    line-height: 50px;
+  }
+  div#kigali img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+  }
+  div#tokyo img{
+    float: center;
+    text-align: center;
+    width: 60%;
+    line-height: 30px;
+  }
+  div#londres img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+  }
+  div#new-york img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+  }
+  div#dubai img{
+    float: center;
+    text-align: center;
+    width: 70%;
+    line-height: 30px;
+  }
+  div#brazzaville :hover{
+    background-color:coral;
+  }
+  div#kigali :hover{
+    background-color:coral;
+  }
+  div#nairobi :hover{
+    background-color:coral;
+  }
+  div#tokyo :hover{
+    background-color:coral;
+  }
+  div#londres :hover{
+    background-color:coral;
+  }
+  div#new-york :hover{
+    background-color:coral;
+  }
+  div#dubai :hover{
+    background-color:coral;
+  }
+  div#brazzaville a{
+    font-family: Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color:burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#kigali a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#nairobi a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#tokyo a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color:burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#londres a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#new-york a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  div#dubai a{
+    font-family:  Arial, Helvetica, sans-serif;
+    border: solid 1px black;
+    text-decoration: none;
+    text-transform: uppercase;
+    padding: 10px 15px;
+    background-color: burlywood;
+    border-radius: 4px;
+    font-weight: 200;
+    color: black;
+  }
+  img{
+    float: initial;
+    width: 200px;
+    border-radius: 0px;
+    box-shadow: 10px 10px 5px black;
+}
+body{
+  background-color:lavenderblush;
+}
+footer{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  background-color:gainsboro;
+  color: black;
+}
+
+
+  
+  
+  
+  

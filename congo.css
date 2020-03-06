@@ -1,0 +1,92 @@
+p{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    line-height: 30px;
+    text-align: left;
+    text-align: center;
+    width: 100%;
+    line-height: 20px;
+}
+header{
+    background:url("image.jpg");
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-size: cover;
+    padding: 250px;
+    color: black;
+    }
+    nav ul{
+        padding: 0px;
+    margin: 0px;
+    list-style-type: none;
+     text-align: center;
+     height: 80px;
+     width: 100%;
+    padding: 0px;
+    margin: 0 5px;
+    line-height: 80px;
+    margin-inline-end: 20px;
+      }
+      nav li{
+        box-sizing: border-box;
+        display: inline-block;
+        width: 100px;
+        height: 30px;
+        margin: 0px;
+        padding: 0px;
+        border-right: 1px solid black;
+        text-align: center;
+        line-height: 40px;
+      }
+      nav li:hover{
+        background-color:rosybrown;
+        border-radius: 3px;
+      }
+      nav li a{
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        display: block;
+        text-decoration: none;
+        color:black;
+        }
+img{
+    float: center;
+    width: 200px;
+    width: 15%;
+    border-radius: 0px;
+}
+div, #iframe{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    vertical-align: top;
+    
+}
+h2{
+    color:black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    display: block;
+    width: 400px;
+    width: 100%;
+  }
+  h2, p{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   margin: 0px;
+   padding: 0px;
+   line-height: 50px;
+  }
+  div{
+      text-align: center;
+  }
+ 
+body{
+    background-color: ghostwhite;
+    color: black;
+    }
+    
+footer{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    background-color:gainsboro;
+    color: black;
+  }
